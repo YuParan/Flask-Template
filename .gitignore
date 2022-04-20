@@ -1,0 +1,38 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+downloads/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# logs
+*.log
+
+# OS garbage
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pycharm Settings
+.idea/
+
+# VS Code Settings
+.vscode
+
+####  Individual Settings  ####
+# Environments
+system/keys.yaml
+
+# common directory
+/common
+!common/logs/.keep
+!common/media/.keep
+!common/static/.keep
+
+# Individual Condition

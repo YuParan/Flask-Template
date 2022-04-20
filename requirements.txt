@@ -1,0 +1,8 @@
+flask==2.0.3
+flask-cors==3.0.10
+flask-restful==0.3.9
+werkzeug==2.0.3
+pyyaml
+Pillow==8.3.2
+pandas==1.4.0
+numpy==1.22.2

@@ -1,0 +1,21 @@
+# Server Info
+server:
+  name: "nameless_server"
+  version: "flask-1.0"
+  host: "0.0.0.0"
+  port: "5050"
+  protocol: "http"
+  maxlogs: 100000000
+  processes: 2
+
+settings:
+  language: "ko-kr"
+  timezone: "Asia/Seoul"
+  log_dir: "common/logs"
+  # static & media settings
+  static_url: "/static/"
+  static_root: "common/static"
+  media_url: "/media/"
+  media_root: "common/media"
+
+# Write Other settings below (without Secret-Keys)
